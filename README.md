@@ -1,5 +1,5 @@
 # rainlendar-pro-aur
-AUR package for Rainlendar-Pro 2.16.1.  
+AUR package for Rainlendar-Pro 2.18.0 
 
 # for those who came here from AUR
 For the use this PKGBUILD:
