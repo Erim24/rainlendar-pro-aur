@@ -1,6 +1,6 @@
 pkgbase = rainlendar-pro
 	pkgdesc = A desktop Calendar, ToDo list and Event list
-	pkgver = 2.16.1
+	pkgver = 2.18.0
 	pkgrel = 1
 	url = http://www.rainlendar.net/
 	arch = x86_64
@@ -16,7 +16,7 @@ pkgbase = rainlendar-pro
 	conflicts = rainlendar-beta-unstable
 	conflicts = rainlendar-lite
 	source = http://www.rainlendar.net/download/Rainlendar-Pro-2.16.1-amd64.tar.bz2
-	sha256sums = f994459ef71fad3e8083ebf4c264d2a88c74ce938f4dfc1d5a65ecdceb65f7ce
+	sha256sums = af300f0a772dc0c38b9a5b3f73c3b04e679159eec69bc6baf3d345349f1b6e12
 
 pkgname = rainlendar-pro
 
